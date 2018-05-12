@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '39533'
     url: http://www.gutenberg.org/2009/agents/39533
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38564#Happy-Hearts
 gutenberg_issued: '2012-01-13'
 gutenberg_type: Text
 identifiers:
